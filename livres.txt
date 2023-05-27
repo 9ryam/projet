@@ -1,0 +1,147 @@
+Nom du livre : ONE PIECE
+Numéro de référence : 31
+Catégorie : MANGA
+Quantité en stock : 11
+Prix : 6.90
+Taille : grand
+
+Nom du livre : BERSERK
+Numéro de référence : 32
+Catégorie : MANGA
+Quantité en stock : 6
+Prix : 7.20
+Taille : moyen
+
+Nom du livre : NARUTO
+Numéro de référence : 33
+Catégorie : MANGA
+Quantité en stock : 8
+Prix : 6.20
+Taille : petit
+
+Nom du livre : LOU 
+Numéro de référence : 21
+Catégorie :BD
+Quantité en stock : 8
+Prix : 5.00
+Taille : petit
+
+Nom du livre : TINTIN
+Numéro de référence : 22
+Catégorie : BD
+Quantité en stock : 10
+Prix : 4.70
+Taille : grand
+
+Nom du livre : ASTERIX
+Numéro de référence : 23
+Catégorie : BD
+Quantité en stock : 10
+Prix : 10.50
+Taille : moyen
+
+Nom du livre : PEANUTS
+Numéro de référence : 10
+Catégorie : ENFANT
+Quantité en stock : 6
+Prix : 6.90
+Taille : moyen
+
+Nom du livre : T'CHOUPI
+Numéro de référence : 11
+Catégorie : ENFANT
+Quantité en stock : 6
+Prix : 5.95
+Taille : petit
+
+Nom du livre : LE PRTIT PRINCE
+Numéro de référence : 12
+Catégorie : ENFANT
+Quantité en stock : 6
+Prix : 6.49
+Taille : grand
+
+Nom du livre : HARRY POTTER
+Numéro de référence : 41
+Catégorie : FANTASTIQUE
+Quantité en stock : 8
+Prix : 9.30
+Taille : petit
+
+Nom du livre : L'ETRANGE BLIOTHEQUE
+Numéro de référence : 42
+Catégorie : FANTASTIQUE
+Quantité en stock : 2
+Prix : 8.99
+Taille : moyen
+
+Nom du livre : RELENTLESS
+Numéro de référence : 43
+Catégorie : FANTASTIQUE
+Quantité en stock : 6
+Prix : 13.70
+Taille : grand
+
+Nom du livre : ELEVATION
+Numéro de référence : 26
+Catégorie : POLICIER
+Quantité en stock : 8
+Prix : 7.20
+Taille : petit
+
+Nom du livre : LE PASSAGER SANS VISAGE
+Numéro de référence : 27
+Catégorie : POLICIER
+Quantité en stock : 6
+Prix : 8.60
+Taille : grand
+
+Nom du livre : MORT SUR LE NIL
+Numéro de référence : 28
+Catégorie : POLICIER
+Quantité en stock : 6
+Prix : 7.99
+Taille : moyen
+
+Nom du livre : DUNE
+Numéro de référence : 60
+Catégorie : SCIENCES-FI
+Quantité en stock : 6
+Prix : 24.90
+Taille : moyen
+
+Nom du livre : LA PLANETE DES SINGES
+Numéro de référence : 61
+Catégorie : SCIENCES-FI
+Quantité en stock : 6
+Prix : 5.30
+Taille : petit
+
+Nom du livre : FONDATION
+Numéro de référence : 62
+Catégorie : SCIENCES-FI
+Quantité en stock : 6
+Prix : 8.10
+Taille : grand
+
+Nom du livre : ORGEUIL ET PREJUGE
+Numéro de référence : 45
+Catégorie : ROMANCE
+Quantité en stock : 10
+Prix : 8.90
+Taille : petit
+
+Nom du livre : JAMAIS PLUS
+Numéro de référence : 46
+Catégorie : ROMANCE
+Quantité en stock : 10
+Prix : 7.90
+Taille : moyen
+
+Nom du livre : THE DEAL
+Numéro de référence : 47
+Catégorie : ROMANCE
+Quantité en stock : 10
+Prix : 15.86
+Taille : grand
+
